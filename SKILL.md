@@ -3,8 +3,8 @@ name: story-arc-structure
 description: Structure narrative content using verse-chapter-bridge-resolution architecture with emotional pivot points.
 license: MIT
 metadata:
-  version: 1.0.5065
   author: sethmblack
+  version: 1.0.5066
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - callbacks
